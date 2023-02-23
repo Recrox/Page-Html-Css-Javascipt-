@@ -1,0 +1,47 @@
+.mainTitle{
+    color: red;
+    background-color: blue;
+}
+
+body{
+    margin:0;
+}
+.container{
+    display: flex;
+    height: 100vh;
+}
+
+.left-panel{
+    border: 3px solid red;
+    width: 15%;
+}
+
+.center-panel{
+    border: 3px solid green;
+    width: 70%;
+}
+
+.right-panel{
+    border: 3px solid blue;
+    width: 15%;
+}
+
+.center-top{
+    border: 2px solid red;
+    height: 15%;
+}
+
+.center-mid{
+    border: 2px solid green;
+    height: 70%;
+}
+
+.center-bottom{
+    border: 2px solid blue;
+    height: 15%;
+}
+
+img{
+    max-height: 100%;
+}
+
